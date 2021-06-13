@@ -14,7 +14,7 @@ url: https://tana-gh.github.io/marp-template/
 
 tana-gh
 
-![Icon](./icon.png)
+![Icon](./dist/media/icon.png)
 
 ---
 
@@ -31,9 +31,23 @@ Structured by following file types...
 
 # Content 2
 
+This is source code example.
+
+```haskell
+module Main where
+
+main :: IO ()
+main = do
+    putStrLn "Hello, world!"
+```
+
+---
+
+# Content 3
+
 This is SVG example.
 
-![SVG](./example.drawio.svg)
+![SVG](./dist/media/example.drawio.svg)
 
 ---
 

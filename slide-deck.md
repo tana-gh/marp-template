@@ -14,7 +14,7 @@ url: https://tana-gh.github.io/marp-template/
 
 tana-gh
 
-![Icon](./dist/media/icon.png)
+![Icon](./media/icon.png)
 
 ---
 
@@ -47,7 +47,7 @@ main = do
 
 This is SVG example.
 
-![SVG](./dist/media/example.drawio.svg)
+![SVG](./media/example.drawio.svg)
 
 ---
 
